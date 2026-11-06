@@ -1,0 +1,620 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://famouselectronicsbd.com/",
+  "seed_origin": "https://famouselectronicsbd.com:443",
+  "seed_host": "famouselectronicsbd.com",
+  "final_url": "https://famouselectronicsbd.com/",
+  "final_host": "famouselectronicsbd.com",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-11-06T03:44:18.806215Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 19,
+    "total_asset_bytes": 838852
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 144,
+    "assets_included": 19,
+    "assets_excluded": 125
+  },
+  "excluded": [
+    {
+      "url": "data:image/svg+xml,%3Csvg%20width%3D%22700%22%20height%3D%22475%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%3E%3Cstop%20stop-color%3D%22%23f1f1f1%22%20offset%3D%220%25%22%2F%3E%3Cstop%20stop-color%3D%22%23f3f3f3%22%20offset%3D%2250%25%22%2F%3E%3Cstop%20stop-color%3D%22%23f1f1f1%22%20offset%3D%22100%25%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22700%22%20height%3D%22475%22%20fill%3D%22%23f3f3f3%22%2F%3E%3Crect%20id%3D%22r%22%20width%3D%22700%22%20height%3D%22475%22%20fill%3D%22url(%23g",
+      "reason": "invalid_scheme"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/07/da/inshot-20261019-021427116-9985246342313209/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/07/da/inshot-20261019-021427116-9985246342313209/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/15/73/inshot-20261008-152924874-9082676684624046/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/15/73/inshot-20261008-152924874-9082676684624046/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/1a/6e/1000850124-11330379195774471/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/1a/6e/1000850124-11330379195774471/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/2a/b4/inshot-20261024-140148245-10458959366323841/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/2a/b4/inshot-20261024-140148245-10458959366323841/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/33/e9/1000845473-10938027564541660/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/33/e9/1000845473-10938027564541660/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/3f/77/inshot-20261102-164024393-11246253475215128/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/3f/77/inshot-20261102-164024393-11246253475215128/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/3f/f7/1000823219-9085116982453254/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/3f/f7/1000823219-9085116982453254/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/44/9d/inshot-20260824-002628775-5230218729680201/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/44/9d/inshot-20260824-002628775-5230218729680201/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/46/67/1000851789-11477015518046876/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/46/67/1000851789-11477015518046876/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/4d/81/inshot-20260927-035505300-8092692813768897/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/4d/81/inshot-20260927-035505300-8092692813768897/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/51/ae/inshot-20261101-145358385-11155571403935222/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/51/ae/inshot-20261101-145358385-11155571403935222/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/53/91/1000848425-11155716675647948/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/53/91/1000848425-11155716675647948/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/56/e7/inshot-20261019-031549976-11969565045468480/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/56/e7/inshot-20261019-031549976-11969565045468480/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/57/b8/1000842840-10639214847742965/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/57/b8/1000842840-10639214847742965/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/5b/cd/inshot-20261003-042438337-10590133170700480/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/5b/cd/inshot-20261003-042438337-10590133170700480/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/5e/55/inshot-20260614-064521954-1010189707217143/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/5e/55/inshot-20260614-064521954-1010189707217143/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/70/7f/inshot-20260905-080535336-6204073191118873/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/70/7f/inshot-20260905-080535336-6204073191118873/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/83/5a/inshot-20260701-092345015-517566386579400/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/83/5a/inshot-20260701-092345015-517566386579400/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/83/ff/inshot-20261105-080936436-11476004734289451/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/83/ff/inshot-20261105-080936436-11476004734289451/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/84/a2/1000830458-9676874611683332/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/84/a2/1000830458-9676874611683332/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/92/92/inshot-20260819-092507975-4740507108837513/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/92/92/inshot-20260819-092507975-4740507108837513/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/93/31/inshot-20261102-164948843-11247166248693428/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/93/31/inshot-20261102-164948843-11247166248693428/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/98/55/inshot-20261104-041232347-11374744881323007/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/98/55/inshot-20261104-041232347-11374744881323007/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/9a/9d/inshot-20260902-101327860-5954796092459890/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/9a/9d/inshot-20260902-101327860-5954796092459890/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/9c/ba/1000846121-10934014446046677/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/9c/ba/1000846121-10934014446046677/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/ad/ae/inshot-20261019-023159099-9987707071128258/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/ad/ae/inshot-20261019-023159099-9987707071128258/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/b5/06/inshot-20261021-031606525-10163098775092571/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/b5/06/inshot-20261021-031606525-10163098775092571/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/b7/ee/1000846145-10942568223625345/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/b7/ee/1000846145-10942568223625345/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/bb/67/inshot-20261014-135954985-11583788738733915/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/bb/67/inshot-20261014-135954985-11583788738733915/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/c2/8e/inshot-20261029-120427754-10937468429540724/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/c2/8e/inshot-20261029-120427754-10937468429540724/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/c7/93/inshot-20261102-170032844-11247919182072081/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/c7/93/inshot-20261102-170032844-11247919182072081/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/cb/2b/inshot-20260921-114129297-7607335332491218/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/cb/2b/inshot-20260921-114129297-7607335332491218/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/ce/d1/inshot-20261019-005309788-9983275085882104/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/ce/d1/inshot-20261019-005309788-9983275085882104/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d0/78/inshot-20260712-044019678-1440057818019422/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d0/78/inshot-20260712-044019678-1440057818019422/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d1/9e/inshot-20261102-163204566-13225997095643305/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d1/9e/inshot-20261102-163204566-13225997095643305/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d4/f0/inshot-20260930-012509304-10326955349099526/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d4/f0/inshot-20260930-012509304-10326955349099526/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d5/1e/inshot-20261102-161116640-11245238774790766/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d5/1e/inshot-20261102-161116640-11245238774790766/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d7/23/inshot-20260930-012300495-10323103027325731/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d7/23/inshot-20260930-012300495-10323103027325731/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d8/da/inshot-20261011-031544882-9299406715950253/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/d8/da/inshot-20261011-031544882-9299406715950253/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/f7/5f/inshot-20261103-163850526-11332746897484481/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/inventories/f7/5f/inshot-20261103-163850526-11332746897484481/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/12/7a/scaled-1000002322-6655838744030228/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/12/7a/scaled-1000002322-6655838744030228/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/16/6a/scaled-1000002321-6655725361567953/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/16/6a/scaled-1000002321-6655725361567953/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/1f/30/scaled-1000779004-8246136943241198/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/1f/30/scaled-1000779004-8246136943241198/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/37/aa/scaled-1000014817-7735607842721789/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/37/aa/scaled-1000014817-7735607842721789/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/3b/1f/scaled-1000002324-6655765110771099/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/3b/1f/scaled-1000002324-6655765110771099/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/48/44/scaled-1000002323-6656120632447292/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/48/44/scaled-1000002323-6656120632447292/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/4f/c5/scaled-1000782108-6492335531789195/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/4f/c5/scaled-1000782108-6492335531789195/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/50/1e/scaled-1000778996-6265499978138480/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/50/1e/scaled-1000778996-6265499978138480/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/52/86/scaled-1000782111-8472312331331975/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/52/86/scaled-1000782111-8472312331331975/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/55/7c/scaled-1000782112-6492307018437330/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/55/7c/scaled-1000782112-6492307018437330/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/65/2c/scaled-1000782105-6492089636935743/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/65/2c/scaled-1000782105-6492089636935743/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/77/15/scaled-1000782107-8472236459258599/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/77/15/scaled-1000782107-8472236459258599/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/7f/d8/famous-logo-white-13018657366886641/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/7f/d8/famous-logo-white-13018657366886641/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/82/05/scaled-1000782106-6492223679730739/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/82/05/scaled-1000782106-6492223679730739/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/84/ef/scaled-1000782110-8472381731954648/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/84/ef/scaled-1000782110-8472381731954648/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/85/99/scaled-1000779006-6266753455989583/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/85/99/scaled-1000779006-6266753455989583/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/b0/31/scaled-1000778998-6265341153536443/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/b0/31/scaled-1000778998-6265341153536443/original.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/bc/60/scaled-1000782109-6491992896855354/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/bc/60/scaled-1000782109-6491992896855354/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/e2/8b/scaled-1000782113-8472191150562331/400w.webp",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/easy/uploads/26099/shops/e2/8b/scaled-1000782113-8472191150562331/original.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/fonts/HelveticaNowText/HelveticaNowText-Bold.woff2",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/fonts/HelveticaNowText/HelveticaNowText-Medium.woff2",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/fonts/HelveticaNowText/HelveticaNowText-Regular.woff2",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/shops/1687929449757105.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://assets.zatiqeasy.com/shops/639675468121731.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWPCm7bLnwI.woff2",
+      "reason": "cross_origin_blocked"
+    }
+  ],
+  "mapping": {
+    "https://famouselectronicsbd.com/apple-touch-icon.png?v=kftmay": {
+      "local_path": "assets/3e6f920524e9d05d7bb119bc4a560bba43271b896df01774df0e985b6358f907.png",
+      "content_type": "image/png"
+    },
+    "https://famouselectronicsbd.com/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2": {
+      "local_path": "assets/ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2": {
+      "local_path": "assets/71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2": {
+      "local_path": "assets/6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/inter-greek-wght-normal-CkhJZR-_.woff2": {
+      "local_path": "assets/1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2": {
+      "local_path": "assets/34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/inter-latin-wght-normal-Dx4kXJAl.woff2": {
+      "local_path": "assets/3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2": {
+      "local_path": "assets/5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/montserrat-cyrillic-ext-wght-normal-CO5hGrJv.woff2": {
+      "local_path": "assets/0f7f5f2fbb4eae126790fe6f01659ab3ee0806e8038a941908e893020569f51a.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/montserrat-cyrillic-wght-normal-EAA9jha_.woff2": {
+      "local_path": "assets/a187b077090fe8ae3fd2d7496aabbeae604819c718a282e0afc92df72b450766.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/montserrat-latin-ext-wght-normal-BsZE-iaG.woff2": {
+      "local_path": "assets/54d9a78b7ff60b689ad9f3017ffac8547b5d871afec733f6c1c3ae36577ee504.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/montserrat-latin-wght-normal-l_AIctKy.woff2": {
+      "local_path": "assets/06b16db7a969135d48d38c49183be7fb88d4452e2a3011957c7851941f4e4879.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/montserrat-vietnamese-wght-normal-k7S-YeeD.woff2": {
+      "local_path": "assets/26b2403f995ed65fb49037a6498c074d3ec3c36031a69fc368c4c2180e2c01fa.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/assets/product-summary-DVB7LGv8.css": {
+      "local_path": "assets/f77202e3b7746dabc7942d056e3d051c3906e03930838e9120d282e965518d65.css",
+      "content_type": "text/css"
+    },
+    "https://famouselectronicsbd.com/assets/styles-Dgzq51UU.css": {
+      "local_path": "assets/0b9738ae6f10252a43bcfda20369c2d182fb4390e18948c1145db745ec313670.css",
+      "content_type": "text/css"
+    },
+    "https://famouselectronicsbd.com/fonts/DMSans/DMSans-Variable.woff2": {
+      "local_path": "assets/468d56b6b25b05b70190b6c233d773f6f1770e8579827ce022a57f03fa8002fb.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/fonts/FivoSansModern/FivoSansModern-Bold.woff2": {
+      "local_path": "assets/b9a4bb3d47756cbd80c8a97c4d9f0833278c8dd0e5409e65d577d23e8e4f8e80.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/fonts/FivoSansModern/FivoSansModern-Medium.woff2": {
+      "local_path": "assets/901f7581f17542fb8e4ef3d4fc05c7691891bb525b16128249be58b98f2b5817.bin",
+      "content_type": "font/woff2"
+    },
+    "https://famouselectronicsbd.com/fonts/FivoSansModern/FivoSansModern-Regular.woff2": {
+      "local_path": "assets/53691f588e4866d06f93fa1a35c53e4c3d5b67328d1c39036d18c0800e479804.bin",
+      "content_type": "font/woff2"
+    }
+  },
+  "heuristics": {
+    "script_src_count": 0,
+    "meaningful_elements": 410,
+    "text_content_length": 8729
+  }
+}
